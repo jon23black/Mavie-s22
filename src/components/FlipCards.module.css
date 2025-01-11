@@ -1,0 +1,7 @@
+.flipCards {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  align-items: center;
+  overflow-y: hidden;
+}

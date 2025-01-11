@@ -1,0 +1,11 @@
+.randomPage {
+  width: 100vw;
+  overflow-x: hidden;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.randomCardArea {
+  display: flex;
+  justify-content: center;
+}

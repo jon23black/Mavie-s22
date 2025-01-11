@@ -163,7 +163,7 @@ function App() {
             things that are only for you and your career, which should also
             account for how great a person you are. I am sorry you that I am the
             reason you do not know how much I appreciate you and how much you
-            mean to me. <br /> <br /> This is to Mavie, as a friend of Nour.{" "}
+            mean to me. <br /> This is to Mavie, as a friend of Nour.{" "}
             <br />I can not appreciate you enough.
           </h1>
         )}
